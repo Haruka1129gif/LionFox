@@ -1,3 +1,4 @@
+import math
 def evaluate_board_with_middle(board, stone):
     """
     中割りを考慮した評価関数。
