@@ -55,7 +55,7 @@ def minimax_with_middle(board, stone, depth, maximizing_player, alpha=-math.inf,
                 break  # αカット
         return min_eval
 
-class FoxAIWithMiddle:
+class koara:
     def name(self):
         return "FoxAIWithMiddle"
     def face(self):
